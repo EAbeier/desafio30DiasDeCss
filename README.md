@@ -47,4 +47,4 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01]()
+![Dia 01](Dia1 - botoes com camadas/Document - Google Chrome 2020-12-30 10-07-41.gif)
