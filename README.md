@@ -47,4 +47,4 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](Dia1 - botoes com camadas/Document - Google Chrome 2020-12-30 10-07-41.gif)
+![Dia 01](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia1%20-%20botoes%20com%20camadas/Document%20-%20Google%20Chrome%202020-12-30%2010-07-41.gif?raw=true)
