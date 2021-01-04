@@ -48,3 +48,11 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia1%20-%20botoes%20com%20camadas/Document%20-%20Google%20Chrome%202020-12-30%2010-07-41.gif?raw=true)
+<br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia1%20-%20botoes%20com%20camadas)
+
+
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![Dia 02](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia2%20-%20loader%20animado/Document%20-%20Google%20Chrome%202020-12-31%2016-32-48.gif?raw=true)
+<br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia2%20-%20loader%20animado)
