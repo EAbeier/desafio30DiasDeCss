@@ -56,3 +56,8 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 ![Dia 02](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia2%20-%20loader%20animado/Document%20-%20Google%20Chrome%202020-12-31%2016-32-48.gif?raw=true)
 <br>
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia2%20-%20loader%20animado)
+
+## Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
+![Dia 03](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia3%20-%20Texto%20muda%20de%20cor%20em%20outra%20div/Document%20-%20Google%20Chrome%202021-01-04%2010-16-59.gif?raw=true)
+<br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia3%20-%20Texto%20muda%20de%20cor%20em%20outra%20div)
