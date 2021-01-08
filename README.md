@@ -75,4 +75,6 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 ## Desafio dia 06 - Efeito lightning text <a name="id06"></a>
 <img src="https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia6%20-%20Lightning%20text%20Efect/Document%20-%20Google%20Chrome%202021-01-08%2019-42-22%20(1).gif?raw=true" align="left" height="500" width="900" >
 </br>
+</br>
+</br>
 <a href="https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia6%20-%20Lightning%20text%20Efect"><p>Meu Código</p></a>
