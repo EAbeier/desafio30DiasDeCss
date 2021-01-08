@@ -71,3 +71,8 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 ![Dia 05](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia5%20-%20efeito%20pulsar/Document%20-%20Google%20Chrome%202021-01-06%2018-52-25.gif?raw=true)
 <br>
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia5%20-%20efeito%20pulsar)
+
+## Desafio dia 06 - Efeito lightning text <a name="id06"></a>
+![Dia 06]()
+<br>
+[Meu Código]()
