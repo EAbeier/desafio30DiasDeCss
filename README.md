@@ -77,8 +77,12 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 </br>
 <a href="https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia6%20-%20Lightning%20text%20Efect"><p>Meu Código</p></a>
 
-## Desafio dia 07 - Preloadr animado<a name="id07"></a>
+## Desafio dia 07 - Preloader animado<a name="id07"></a>
 ![Dia 07](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia7%20-%20Preloader%20animado/Document%20-%20Google%20Chrome%202021-01-09%2008-57-46.gif?raw=true)
 </br>
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia7%20-%20Preloader%20animado)
 
+## Desafio dia 08 - Coração batendo<a name="id08"></a>
+![Dia 08](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia8%20-%20Cora%C3%A7%C3%A3o%20batendo/Document%20-%20Google%20Chrome%202021-01-10%2009-56-17.gif?raw=true)
+</br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia8%20-%20Cora%C3%A7%C3%A3o%20batendo)
