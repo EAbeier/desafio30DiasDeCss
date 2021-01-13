@@ -47,47 +47,47 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia1%20-%20botoes%20com%20camadas/Document%20-%20Google%20Chrome%202020-12-30%2010-07-41.gif?raw=true)
+![Dia 01](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%201%20-%20botoes%20com%20camadas/Document%20-%20Google%20Chrome%202020-12-30%2010-07-41.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia1%20-%20botoes%20com%20camadas)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%201%20-%20botoes%20com%20camadas)
 
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
-![Dia 02](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia2%20-%20loader%20animado/Document%20-%20Google%20Chrome%202020-12-31%2016-32-48.gif?raw=true)
+![Dia 02](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%202%20-%20loader%20animado/Document%20-%20Google%20Chrome%202020-12-31%2016-32-48.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia2%20-%20loader%20animado)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%202%20-%20loader%20animado)
 
 ## Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
-![Dia 03](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia3%20-%20Texto%20muda%20de%20cor%20em%20outra%20div/Document%20-%20Google%20Chrome%202021-01-04%2010-16-59.gif?raw=true)
+![Dia 03](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%203%20-%20Texto%20muda%20de%20cor%20em%20outra%20div/Document%20-%20Google%20Chrome%202021-01-04%2010-16-59.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia3%20-%20Texto%20muda%20de%20cor%20em%20outra%20div)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%203%20-%20Texto%20muda%20de%20cor%20em%20outra%20div)
 
 ## Desafio dia 04 - Botão com efeito <a name="id04"></a>
-![Dia 04](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia4%20-%20bot%C3%A3o%20com%20efeito/Document%20-%20Google%20Chrome%202021-01-05%2009-38-33.gif?raw=true)
+![Dia 04](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%204%20-%20bot%C3%A3o%20com%20efeito/Document%20-%20Google%20Chrome%202021-01-05%2009-38-33.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia4%20-%20bot%C3%A3o%20com%20efeito)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%204%20-%20bot%C3%A3o%20com%20efeito)
 
 ## Desafio dia 05 - Efeito pulsa <a name="id05"></a>
-![Dia 05](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia5%20-%20efeito%20pulsar/Document%20-%20Google%20Chrome%202021-01-06%2018-52-25.gif?raw=true)
+![Dia 05](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%205%20-%20efeito%20pulsar/Document%20-%20Google%20Chrome%202021-01-06%2018-52-25.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia5%20-%20efeito%20pulsar)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%205%20-%20efeito%20pulsar)
 
 ## Desafio dia 06 - Efeito lightning text <a name="id06"></a>
-<img src="https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia6%20-%20Lightning%20text%20Efect/Document%20-%20Google%20Chrome%202021-01-08%2019-42-22%20(1).gif?raw=true" height="500" width="900" >
+<img src="https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%206%20-%20Lightning%20text%20Efect/Document%20-%20Google%20Chrome%202021-01-08%2019-42-22%20(1).gif?raw=true" height="500" width="900" >
 </br>
-<a href="https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia6%20-%20Lightning%20text%20Efect"><p>Meu Código</p></a>
+<a href="https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%206%20-%20Lightning%20text%20Efect"><p>Meu Código</p></a>
 
 ## Desafio dia 07 - Preloader animado<a name="id07"></a>
-![Dia 07](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia7%20-%20Preloader%20animado/Document%20-%20Google%20Chrome%202021-01-09%2008-57-46.gif?raw=true)
+![Dia 07](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%207%20-%20Preloader%20animado/Document%20-%20Google%20Chrome%202021-01-09%2008-57-46.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia7%20-%20Preloader%20animado)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%207%20-%20Preloader%20animado)
 
 ## Desafio dia 08 - Coração batendo<a name="id08"></a>
-![Dia 08](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia8%20-%20Cora%C3%A7%C3%A3o%20batendo/Document%20-%20Google%20Chrome%202021-01-10%2009-56-17.gif?raw=true)
+![Dia 08](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%208%20-%20Cora%C3%A7%C3%A3o%20batendo/Document%20-%20Google%20Chrome%202021-01-10%2009-56-17.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia8%20-%20Cora%C3%A7%C3%A3o%20batendo)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%208%20-%20Cora%C3%A7%C3%A3o%20batendo)
 
 ## Desafio dia 09 - Pêndulo de Newton <a name="id09"></a>
-![Dia 09](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia9%20-%20Pendulo%20de%20Newton/Document%20-%20Google%20Chrome%202021-01-11%2018-34-31.gif?raw=true)
+![Dia 09](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%209%20-%20Pendulo%20de%20Newton/Document%20-%20Google%20Chrome%202021-01-11%2018-34-31.gif?raw=true)
 </br>
-[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia9%20-%20Pendulo%20de%20Newton)
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%209%20-%20Pendulo%20de%20Newton)
