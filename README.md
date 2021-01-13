@@ -91,3 +91,8 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 ![Dia 09](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia%209%20-%20Pendulo%20de%20Newton/Document%20-%20Google%20Chrome%202021-01-11%2018-34-31.gif?raw=true)
 </br>
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%209%20-%20Pendulo%20de%20Newton)
+
+## Desafio dia 10 - Animação texto alternando <a name="id10"></a>
+![Dia 09](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia10%20-%20Anima%C3%A7%C3%A3o%20Texto%20Alternando/Document%20-%20Google%20Chrome%202021-01-13%2019-38-53.gif?raw=true)
+</br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia10%20-%20Anima%C3%A7%C3%A3o%20Texto%20Alternando)
