@@ -1,0 +1,37 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background: #c7ecee;
+}
+h1
+{
+    color:#130f40;
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+}
+span::before
+{
+    content: '';
+    animation: txt_changing 3s infinite linear;
+}
+
+@keyframes txt_changing
+{
+    0%
+    {
+        content: '🎮' ;
+    }
+    50%
+    {
+        content: '🚀';
+    }
+    100%
+    {
+        content: '💻';
+    }
+}
