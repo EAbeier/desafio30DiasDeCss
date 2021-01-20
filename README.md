@@ -93,6 +93,12 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia%209%20-%20Pendulo%20de%20Newton)
 
 ## Desafio dia 10 - Animação texto alternando <a name="id10"></a>
-![Dia 09](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia10%20-%20Anima%C3%A7%C3%A3o%20Texto%20Alternando/Document%20-%20Google%20Chrome%202021-01-13%2019-38-53.gif?raw=true)
+![Dia 10](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia10%20-%20Anima%C3%A7%C3%A3o%20Texto%20Alternando/Document%20-%20Google%20Chrome%202021-01-13%2019-38-53.gif?raw=true)
 </br>
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia10%20-%20Anima%C3%A7%C3%A3o%20Texto%20Alternando)
+
+## Desafio dia 11 - Botão com efeito hover<a name="id11"></a>
+![Dia 11](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia11%20-%20Bot%C3%A3o%20com%20efeito%20hover/Bot%C3%A3o%20com%20efeito%20hover%20-%20Google%20Chrome%202021-01-17%2010-31-51.gif?raw=true)
+</br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia11%20-%20Bot%C3%A3o%20com%20efeito%20hover)
+
