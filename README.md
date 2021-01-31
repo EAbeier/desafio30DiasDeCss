@@ -102,3 +102,13 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 </br>
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia11%20-%20Bot%C3%A3o%20com%20efeito%20hover)
 
+
+## Desafio dia 12 - Efeito de preenchimento ao passar o mouse<a name="id12"></a>
+![Dia 12](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia12%20-%20Preencher%20texto%20hover/Document%20-%20Google%20Chrome%202021-01-20%2020-44-57.gif?raw=true)
+</br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia12%20-%20Preencher%20texto%20hover)
+
+## Desafio dia 13 - Loading com efeito<a name="id13"></a>
+![Dia 13](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia13%20-%20Loading%20com%20efeito/Document%20-%20Google%20Chrome%202021-01-20%2020-45-32.gif?raw=true)
+</br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia13%20-%20Loading%20com%20efeito)
