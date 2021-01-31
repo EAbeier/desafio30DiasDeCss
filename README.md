@@ -112,3 +112,8 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 ![Dia 13](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia13%20-%20Loading%20com%20efeito/Document%20-%20Google%20Chrome%202021-01-20%2020-45-32.gif?raw=true)
 </br>
 [Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia13%20-%20Loading%20com%20efeito)
+
+## Desafio dia 14 - Fundo de texto animado<a name="id14"></a>
+![Dia 14](https://github.com/EAbeier/desafio30DiasDeCss/blob/main/Dia14%20-%20Texto%20com%20Fundo%20Animado/Document%20-%20Google%20Chrome%202021-01-31%2010-43-24.gif?raw=true)
+</br>
+[Meu Código](https://github.com/EAbeier/desafio30DiasDeCss/tree/main/Dia14%20-%20Texto%20com%20Fundo%20Animado)
