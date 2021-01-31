@@ -1,0 +1,38 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body
+{
+    background: #00d2d3;
+    min-height: 100vh;
+    display: flex;
+    
+}
+h1
+{
+    margin: auto;
+    font-size: 150px;
+    line-height: 1;
+    background: url('82143.jpg');
+    background-position: center;
+    background-size: contain;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-stroke: 3px #000;
+    animation: clouds 10s linear infinite;
+}
+@keyframes clouds
+{
+    0%
+    {
+        background-position: 0 0;
+    }
+    100%
+    {
+        background-position: 500px ;
+    }
+}
